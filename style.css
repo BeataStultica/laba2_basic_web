@@ -25,21 +25,21 @@
     width: 170px;
     border: 1px solid black;
 }
-#screen_tran p{
+#screen-tran p{
     margin: 0;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%)
 }
-#screen_position{
+#screen-position{
     position: relative;
     top: 15px;
     left: 15px;
     display: flex;
     align-items: center;
 }
-#screen_position p{
+#screen-position p{
     margin-left: auto;
     margin-right: auto;
 }
@@ -47,78 +47,78 @@
 p{
     font-size: 55px;
 }
-#btn1_pos{
+#btn1-pos{
     left:30px;
     top: 200px;
 }
-#btn2_pos{
+#btn2-pos{
     left:83px;
     top: 200px;
 }
-#btn3_pos{
+#btn3-pos{
     left:136px;
     top: 200px;
 }
-#btn4_pos{
+#btn4-pos{
     left:30px;
     top: 247px;
 }
-#btn5_pos{
+#btn5-pos{
     left:83px;
     top: 247px;
 }
-#btn6_pos{
+#btn6-pos{
     left:136px;
     top: 247px;
 }
-#btn7_pos{
+#btn7-pos{
     left:30px;
     top: 295px;
 }
-#btn8_pos{
+#btn8-pos{
     left:83px;
     top: 295px;
 }
-#btn9_pos{
+#btn9-pos{
     left:136px;
     top: 295px;
 }
 
-#screen_tran{
+#screen-tran{
     transform: translate(7.5%, 7.5%)
 }
 
-#btn1_tran{
+#btn1-tran{
     transform: translate(30px, 27px)
 }
 
-#btn2_tran{
+#btn2-tran{
     transform: translate(83px, 27px)
 }
 
-#btn3_tran{
+#btn3-tran{
     transform: translate(136px, 27px)
 }
-#btn4_tran{
+#btn4-tran{
     transform: translate(30px, 74px)
 }
 
-#btn5_tran{
+#btn5-tran{
     transform: translate(83px, 74px)
 }
 
-#btn6_tran{
+#btn6-tran{
     transform: translate(136px, 74px)
 }
 
-#btn7_tran{
+#btn7-tran{
     transform: translate(30px, 121px)
 }
 
-#btn8_tran{
+#btn8-tran{
     transform: translate(83px, 121px)
 }
 
-#btn9_tran{
+#btn9-tran{
     transform: translate(136px, 121px)
 }
