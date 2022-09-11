@@ -1,0 +1,124 @@
+.calc{
+    float: left;
+    position: relative;
+    background-color: #d7e3bd;
+    margin: 30px;
+    border-radius: 30px;
+    height: 350px;
+    width: 200px;
+    border: 1px solid black;
+}
+
+.button{
+    height: 34px;
+    width: 34px;
+    background-color: #3f3152;
+    border-radius: 50%;
+    position: absolute;
+    border: 1px solid black;
+}
+
+.screen{
+    background-color: white;
+    border-radius: 30px;
+    height: 170px;
+    width: 170px;
+    border: 1px solid black;
+}
+#screen_tran p{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+#screen_position{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    display: flex;
+    align-items: center;
+}
+#screen_position p{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-size: 55px;
+}
+#btn1_pos{
+    left:30px;
+    top: 200px;
+}
+#btn2_pos{
+    left:83px;
+    top: 200px;
+}
+#btn3_pos{
+    left:136px;
+    top: 200px;
+}
+#btn4_pos{
+    left:30px;
+    top: 247px;
+}
+#btn5_pos{
+    left:83px;
+    top: 247px;
+}
+#btn6_pos{
+    left:136px;
+    top: 247px;
+}
+#btn7_pos{
+    left:30px;
+    top: 295px;
+}
+#btn8_pos{
+    left:83px;
+    top: 295px;
+}
+#btn9_pos{
+    left:136px;
+    top: 295px;
+}
+
+#screen_tran{
+    transform: translate(7.5%, 7.5%)
+}
+
+#btn1_tran{
+    transform: translate(30px, 27px)
+}
+
+#btn2_tran{
+    transform: translate(83px, 27px)
+}
+
+#btn3_tran{
+    transform: translate(136px, 27px)
+}
+#btn4_tran{
+    transform: translate(30px, 74px)
+}
+
+#btn5_tran{
+    transform: translate(83px, 74px)
+}
+
+#btn6_tran{
+    transform: translate(136px, 74px)
+}
+
+#btn7_tran{
+    transform: translate(30px, 121px)
+}
+
+#btn8_tran{
+    transform: translate(83px, 121px)
+}
+
+#btn9_tran{
+    transform: translate(136px, 121px)
+}
